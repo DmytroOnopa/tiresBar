@@ -1,1 +1,10 @@
-# singleHtmlWebsite
+<img src="https://github.com/DmytroOnopa/tiresBar/blob/main/images/favicon.svg"
+align="right" style="height: 64px"/>
+
+# Tires⚛︎bar
+### GitHub pages website on single HTML file.
+---
+
+* HTML & CSS code example [John Doe's page](https://john-doe.neocities.org/)
+
+---
