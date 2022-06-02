@@ -1,7 +1,7 @@
 <img src="https://github.com/DmytroOnopa/tiresBar/blob/main/img/favicon.svg"
 align="right" style="height: 64px"/>
 
-# [Tires⚛︎bar🌐](https://dmytroonopa.github.io/tiresBar/)
+# [Tires⚛︎bar](https://dmytroonopa.github.io/tiresBar/)
 ### GitHub pages website on single HTML file.
 ---
 
